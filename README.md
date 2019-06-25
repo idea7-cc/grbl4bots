@@ -1,6 +1,10 @@
 # Fork of grbl for mobile robots! (but wait...)
 
-### This fork is intended to run steppers in a mobile robot like the TEC Bot 7.0 used for Cornell University's Summer College program titled, "Fabricating the Future: Robotics and Programming."  This is early and experimental.  The idea is to use the excellent stepper control functions in grbl instead of less-performant stepper libraries.  On the TEC Bot 7.0 this runs on the Nano V3 co-processor and receives commands via serial from the M5Stack.
+### This fork is intended to run steppers in a mobile robot like the TEC Bot 7.0 used for Cornell University's Summer College program titled, "Fabricating the Future: Robotics and Programming."  
+
+# This is early and experimental.  
+
+### The idea is to use the excellent stepper control functions in grbl instead of less-performant stepper libraries.  On the TEC Bot 7.0 this runs on the Nano V3 co-processor and receives commands via serial from the M5Stack.
 
 # ***info below from grbl***
 
